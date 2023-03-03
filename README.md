@@ -7,6 +7,7 @@ Pastikan sudah ter install Golang dan MongoDB
 
 # Soal No. 1
 Hanya bisa menyelesaikan di postman
+Untuk hasil gambar bisa dilihat di folder Foto Result Soal No.1
 Buka CMD didalam folder ini lalu ketik
 "go run main.go"
 
