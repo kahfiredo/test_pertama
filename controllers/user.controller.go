@@ -3,8 +3,8 @@ package controllers
 import (
 	"net/http"
 
-	"github.com/DevProblems/sarang-gin-mongo-apis/models"
-	"github.com/DevProblems/sarang-gin-mongo-apis/services"
+	"github.com/kahfiredo/test_pertama/models"
+	"github.com/kahfiredo/test_pertama/services"
 	"github.com/gin-gonic/gin"
 )
 

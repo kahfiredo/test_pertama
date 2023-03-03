@@ -1,6 +1,6 @@
 package services
 
-import "github.com/DevProblems/sarang-gin-mongo-apis/models"
+import "github.com/kahfiredo/test_pertama/models"
 
 /*
 	@Author: DevProblems(Sarang Kumar)

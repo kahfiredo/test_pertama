@@ -1,4 +1,4 @@
-module github.com/DevProblems/sarang-gin-mongo-apis
+module github.com/kahfiredo/test_pertama
 
 go 1.17
 
